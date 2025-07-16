@@ -1,0 +1,23 @@
+tab:
+  header: |
+    <bold><gradient:#6A5ACD:#E6E6FA>KUROMI</gradient></bold>
+
+  footer: |
+
+  mspt: "MSPT: %mspt%"
+  tps: "TPS: %tps%"
+  online: "ONLINE: %online%"
+  restart-count: "До рестарта: %time-to-restart%"
+chat:
+  join:
+    types:
+      - '%player% зашёл на сервер... зачем только?'
+      - '22%player% подключился'
+      - 'Самый главный фанат Куроми %player% зашёл на сервер'
+      - '%player% решил зайти на сервер, чтобы докопать ары для сеналла'
+      - '%player% зашёл на сервер, чтобы помочь твину построить город'
+  quit:
+    types:
+      - '%player% сказал, что больше никогда не зайдёт на сервер'
+      - '%player% решил не тратить свою жизнь на Куроми...'
+      - '%player% отключился... от сервера в плане'

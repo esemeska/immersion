@@ -1,0 +1,12 @@
+name: immersion-core
+version: '0.1_alpha'
+main: ua.senalll.immersionCore.ImmersionCore
+author: 'senalll'
+api-version: '1.21.1'
+load: STARTUP
+dependencies:
+  server:
+    ProtocolLib:
+      load: BEFORE
+    SkinsRestorer:
+      load: BEFORE

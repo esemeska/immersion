@@ -1,0 +1,5 @@
+name: immersion-fishing
+version: '0.1'
+main: ua.senalll.immersionFishing.ImmersionFishing
+api-version: '1.21'
+load: STARTUP

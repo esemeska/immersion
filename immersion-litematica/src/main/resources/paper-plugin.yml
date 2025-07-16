@@ -1,0 +1,5 @@
+name: immersion-litematica
+version: '0.1'
+main: ua.senalll.immersionLitematica.ImmersionLitematica
+api-version: '1.21'
+load: STARTUP

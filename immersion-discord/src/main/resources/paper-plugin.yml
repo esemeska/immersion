@@ -1,0 +1,13 @@
+name: immersion-discord
+version: '0.1'
+main: ua.senalll.immersionDiscord.ImmersionDiscord
+api-version: '1.21'
+load: POSTWORLD
+softdepend: [immersion-litematica]
+dependencies:
+  server:
+    SkinsRestorer:
+      load: BEFORE
+    immersion-litematica:
+      required: true
+      join-classpath: true

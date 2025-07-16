@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/immersion-api/immersion.immersion-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/immersion-api/immersion.immersion-api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/immersion-discord/immersion.immersion-discord.main.iml" filepath="$PROJECT_DIR$/.idea/modules/immersion-discord/immersion.immersion-discord.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/immersion-fishing/immersion.immersion-fishing.main.iml" filepath="$PROJECT_DIR$/.idea/modules/immersion-fishing/immersion.immersion-fishing.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/immersion-litematica/immersion.immersion-litematica.main.iml" filepath="$PROJECT_DIR$/.idea/modules/immersion-litematica/immersion.immersion-litematica.main.iml" />
+    </modules>
+  </component>
+</project>
